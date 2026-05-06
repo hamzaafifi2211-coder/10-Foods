@@ -1,0 +1,18 @@
+.h11{
+    color: rgb(10, 148, 10);
+    background-color:rgb(0, 247, 255);
+    text-align: center;
+}
+.h12{
+    color:rgb(51, 255, 0);
+    background-color:black;
+    text-align: center;
+}
+.h13{
+    color:rgb(255, 194, 194);
+    background-color: rgb(255, 0, 0);
+    text-align: center;
+}
+body{
+    background-color:rgb(208, 255, 0);
+}
